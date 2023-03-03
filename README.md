@@ -1,2 +1,3 @@
 # 200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor
-optimal design of the cooling system using pipes
+optimal design of the cooling system using pipes:
+From the thermal perspective, due to the presence of PMs on the rotor, irreversible demagnetization can occur due to the poor heat dissipation from the rotor. So, thermal optimization seems to be necessary to manage the rotor temperature. Besides, the centrifugal forces may cause significant damage to the complicated rotor structure. So, mechanical stress, strain, and deformation analysis are needed to ensure stable operation. Finally, vibration and noise analysis will be performed, and the environmental challenges will be discussed to have a comprehensive vision.
