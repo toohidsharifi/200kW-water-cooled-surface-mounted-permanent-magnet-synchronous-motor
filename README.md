@@ -35,8 +35,6 @@ In this project, the cooling system design and thermal analysis of a large-scale
 
 ![Input currents](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/bd5a1a7e-e15a-474f-9406-a57ee76f9f5d)
 
-![EM meshing](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/e163a9c0-f781-4fe4-bc74-01ac92ab4c44)
-
 ![Flux Density](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/8abe905f-7a84-488c-8ae9-e885e5f3da6f)
 
 For implementing the cooling system, firstly the cooling performance of the motor was modeled using multi-layer perceptron
