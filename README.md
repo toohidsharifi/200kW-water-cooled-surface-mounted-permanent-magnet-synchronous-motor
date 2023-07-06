@@ -20,3 +20,6 @@ The use of a cooling system directly affects the temperature of the motor. In ad
 The problem of heat transfer and electromagnetism determines the initial condition of the motor for practical use. While for complete information about the motor's condition in practical and applied testing, it is necessary to perform mechanical and acoustic (harmonic) analyses on the motor. Therefore, after the mechanical test, we can comment on the length of the air gap. The acoustic analysis will also result in motor noise, so we can have a complete view of the motor performance by completing these two analyses.
 
 ![Stator](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/bfeebb27-0c48-4c21-a7d2-731f00d03176)
+
+
+Why this project can help you?
