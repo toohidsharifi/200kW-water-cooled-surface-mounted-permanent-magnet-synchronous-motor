@@ -22,8 +22,14 @@ For implementing the cooling system, firstly the cooling performance of the moto
     layer perceptron artificial neural network (MLPANN) modeling.
 
 After modeling and system identification, it is time to optimize the cooling system. Like every optimization 
-problem, we should determine decision variables, objective function (s), and optimization methods.
+    problem, we should determine the decision variables, objective function (s), and optimization methods.
 
+As the cooling performance of the motor is determined from fluidic, thermal, and economical perspectives, we
+    have specified three objective functions. Therefore, we face a multi-objective optimization problem.
 
+For fluidic performance, we have selected the pressure drop of cooling pipes. To consider the thermal viewp-
+    oint we monitored the temperature of hotspots (in this case the hotspots appear in the end-windings.) 
+    Additionally, to include economic perspective, the price of cooling pipes is considered the third
+    objective function.
 
 [1]	J. Pyrhonen, T. Jokinen, and V. Hrabovcova, Design of Rotating Electrical Machines: Wiley, 2009.
