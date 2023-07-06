@@ -1,0 +1,6 @@
+As you know, the design process of electrical machines contains branches, including electromagnetic design, thermal design, mechanical design, vibration design, and drive system design. 
+According to Juha Pyrhonen [1], the stuff of thermal design in electrical machines is much more complicated than the classic electromagnetic design.
+Empirical constants are very popular in the field of electrical machines as machine designers usually don't have the specific ability to design the thermal circuits for the machine.
+
+
+[1]	J. Pyrhonen, T. Jokinen, and V. Hrabovcova, Design of Rotating Electrical Machines: Wiley, 2009.
