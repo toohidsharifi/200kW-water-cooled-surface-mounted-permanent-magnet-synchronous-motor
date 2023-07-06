@@ -8,8 +8,6 @@ In recent years, with the expansion of the use of electric motors in various ind
 The use of a cooling system directly affects the temperature of the motor. In addition to reducing heat, this optimization must also be fluid and economically efficient. For this reason, we must optimize this system from all three aspects of temperature, fluidity, and economy. Finally, the results obtained from the comparisons between the initial and optimal design in terms of thermal and electromagnetic will show the effect of optimization. Classical and intelligent algorithms are used for this optimization. Intelligent algorithms have a higher priority due to the stagnation of local optimal points and the ability to integrate into any derivative and non-derivative system.
 The problem of heat transfer and electromagnetism determines the initial condition of the motor for practical use. While for complete information about the motor's condition in practical and applied testing, it is necessary to perform mechanical and acoustic (harmonic) analyses on the motor. Therefore, after the mechanical test, we can comment on the length of the air gap. The acoustic analysis will also result in motor noise, so we can have a complete view of the motor performance by completing these two analyses.
 
-![Stator](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/bfeebb27-0c48-4c21-a7d2-731f00d03176)
-
 
 Why this project can help you?
 
@@ -33,14 +31,8 @@ For such situations, the only remained way is to design the cooling system from 
 In this project, the cooling system design and thermal analysis of a large-scale, 200kW, 6-phase, and surface-mounted per-
     manent magnet synchronous motors were investigated and explained.
 
-![Input currents](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/bd5a1a7e-e15a-474f-9406-a57ee76f9f5d)
-
-![Flux Density](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/8abe905f-7a84-488c-8ae9-e885e5f3da6f)
-
 For implementing the cooling system, firstly the cooling performance of the motor was modeled using multi-layer perceptron
     artificial neural network (MLPANN) modeling.
-
-![ANN](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/29aa99ff-19a0-4c1d-aec1-9e3ab9080f23)
 
 ![Assem3](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/7e754492-48af-4863-84a0-bfb6e4b0e4f5)
 
@@ -70,5 +62,30 @@ The second decision variable is the diameter of the cooling pipes. The wider the
 Thirdly, the speed of the inlet fluid of the pipe is considered as it has a substantial effect on fluidic performance. 
     After optimization, post-processing including various comparisons between the initial and optimal cooling systems 
     proves the effectiveness of optimization and the resultant cooling system.
+
+
+1- Introducing motor design -----> purpose : Electromagnetic analysis.
+
+![Input currents](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/bd5a1a7e-e15a-474f-9406-a57ee76f9f5d)
+
+2- Electromagnetic analysis -----> purpose : Calculation of power losses (inputs of the thermal study).
+
+![Flux Density](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/8abe905f-7a84-488c-8ae9-e885e5f3da6f)
+
+3- Thermal equivalent circuit -----> purpose : Calculation of transient and steady-state temperatures - A time-efficient way to perceive the hotspots and temperature situation.
+
+![Stator](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/bfeebb27-0c48-4c21-a7d2-731f00d03176)
+
+4- ANSYS simulation with Fluent -----> purpose : Validation of thermal equivalent circuit - Getting ready for the system identification.
+
+5- Defining decision variables and objective functions -----> purpose : finding the functions and variables to use in the system identification.
+
+6- Modeling of cooling system -----> purpose : implementing artificial neural networks to find out the model of objective functions.
+
+![ANN](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/29aa99ff-19a0-4c1d-aec1-9e3ab9080f23)
+
+7- Multi-objective optimization -----> purpose : thermal performance improvement – economic supremacy – fluidic superiority.
+
+8-  Obtaining the optimal motor -----> purpose : comparing the initial and optimal motor’s thermal, fluidic, and economic performances.
 
 [1]	J. Pyrhonen, T. Jokinen, and V. Hrabovcova, Design of Rotating Electrical Machines: Wiley, 2009.
