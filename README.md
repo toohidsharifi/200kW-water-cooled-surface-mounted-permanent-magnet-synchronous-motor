@@ -1,12 +1,5 @@
 # 200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor
 
-![Input currents](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/bd5a1a7e-e15a-474f-9406-a57ee76f9f5d)
-
-![EM meshing](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/e163a9c0-f781-4fe4-bc74-01ac92ab4c44)
-
-![Flux Density](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/8abe905f-7a84-488c-8ae9-e885e5f3da6f)
-
-
 optimal design of the cooling system using pipes:
 In recent years, with the expansion of the use of electric motors in various industries, the need for motors with limited dimensions and high torque and power density at the same time has increased. To design and construct such a motor, in addition to electromagnetic analysis, we also need thermal analysis. Because practically, there are thermal limits that determine the rated power of the electric machine. On the other hand, the performance of various parts of the electric motor, such as magnets, insulations, and bearings, is highly dependent on the operating temperature. Therefore, thermal analysis is very important for electric motors. This analysis should cover fluid issues in addition to solids issues; In other words, besides the motor, we must also consider the internal and external fluids of the motor. This fluid has a significant effect on the cooling of the motor, and this fluid causes the main convective currents of the electric motor.
 
@@ -43,6 +36,12 @@ For such situations, the only remained way is to design the cooling system from 
 
 In this project, the cooling system design and thermal analysis of a large-scale, 200kW, 6-phase, and surface-mounted per-
     manent magnet synchronous motors were investigated and explained.
+
+![Input currents](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/bd5a1a7e-e15a-474f-9406-a57ee76f9f5d)
+
+![EM meshing](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/e163a9c0-f781-4fe4-bc74-01ac92ab4c44)
+
+![Flux Density](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/8abe905f-7a84-488c-8ae9-e885e5f3da6f)
 
 For implementing the cooling system, firstly the cooling performance of the motor was modeled using multi-layer perceptron
     artificial neural network (MLPANN) modeling.
