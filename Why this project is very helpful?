@@ -39,7 +39,14 @@ After implementing the sensitivity analysis, we concluded that three decision va
     hotspots to lessen, while the total pressure drop and cost of cooling pipes would be increased directly.
     As mentioned earlier, this is what we call a trade-off in the context of multi-objective optimization.
 
-The second parameter is 
-    
+The second decision variable is the diameter of the cooling pipes. The wider the cooling pipe, the less press-
+ure drop will result. Moreover, because of the increased touching surface between the pipe and the motor, the
+temperature of the motor would be alleviated. At the same time, the peripheral area of the pipe increases as the
+pipe becomes wider. So, the cost of the cooling system escalates. The trade-off is obvious.
+
+Thirdly, the speed of the inlet fluid of the pipe is considered as it has a substantial effect on fluidic performance. 
+
+After optimization, post-processing including various comparisons between the initial and optimal cooling 
+    systems prove the effectiveness of optimization and resultant cooling system.
 
 [1]	J. Pyrhonen, T. Jokinen, and V. Hrabovcova, Design of Rotating Electrical Machines: Wiley, 2009.
