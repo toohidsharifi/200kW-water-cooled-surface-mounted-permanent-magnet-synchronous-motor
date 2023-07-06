@@ -1,0 +1,15 @@
+1- Introducing motor design -----> purpose : Electromagnetic analysis.
+
+2- Electromagnetic analysis -----> purpose : Calculation of power losses (inputs of the thermal study).
+
+3- Thermal equivalent circuit -----> purpose : Calculation of transient and steady-state temperatures - A time-efficient way to perceive the hotspots and temperature situation.
+
+4- ANSYS simulation with Fluent -----> purpose : Validation of thermal equivalent circuit - Getting ready for the system identification.
+
+5- Defining decision variables and objective functions -----> purpose : finding the functions and variables to use in the system identification.
+
+6- Modeling of cooling system -----> purpose : implementing artificial neural networks to find out the model of objective functions.
+
+7- Multi-objective optimization -----> purpose : thermal performance improvement – economic supremacy – fluidic superiority.
+
+8-  Obtaining the optimal motor -----> purpose : comparing the initial and optimal motor’s thermal, fluidic, and economic performances.
