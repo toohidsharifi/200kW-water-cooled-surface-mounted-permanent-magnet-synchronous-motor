@@ -80,6 +80,8 @@ Thirdly, the speed of the inlet fluid of the pipe is considered as it has a subs
 
 5- Defining decision variables and objective functions -----> purpose : finding the functions and variables to use in the system identification.
 
+![NetView](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/d35bfac8-3b92-4f71-86ab-9c0e15a6119b)
+
 6- Modeling of cooling system -----> purpose : implementing artificial neural networks to find out the model of objective functions.
 
 ![ANN](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/29aa99ff-19a0-4c1d-aec1-9e3ab9080f23)
