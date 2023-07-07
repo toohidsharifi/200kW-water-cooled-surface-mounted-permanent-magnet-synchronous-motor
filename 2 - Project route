@@ -10,6 +10,8 @@
 
 6- Modeling of cooling system -----> purpose : implementing artificial neural networks to find out the model of objective functions.
 
-7- Multi-objective optimization -----> purpose : thermal performance improvement – economic supremacy – fluidic superiority.
+7- Single objective optimization -----> purpose : thermal performance improvement – economic supremacy – fluidic superiority.
 
-8-  Obtaining the optimal motor -----> purpose : comparing the initial and optimal motor’s thermal, fluidic, and economic performances.
+8- Multi-objective optimization -----> purpose : thermal performance improvement – economic supremacy – fluidic superiority - validation of the single-objective optimization
+
+9-  Obtaining the optimal motor -----> purpose : comparing the initial and optimal motor’s thermal, fluidic, and economic performances.
