@@ -86,8 +86,10 @@ Thirdly, the speed of the inlet fluid of the pipe is considered as it has a subs
 
 ![ANN](https://github.com/toohidsharifi/200kW-water-cooled-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/29aa99ff-19a0-4c1d-aec1-9e3ab9080f23)
 
-7- Multi-objective optimization -----> purpose : thermal performance improvement – economic supremacy – fluidic superiority.
+7- Single-objective optimization -----> purpose : thermal performance improvement – economic supremacy – fluidic superiority.
 
-8-  Obtaining the optimal motor -----> purpose : comparing the initial and optimal motor’s thermal, fluidic, and economic performances.
+8- Multi-objective optimization -----> purpose : thermal performance improvement – economic supremacy – fluidic superiority - validation of single-objective optimization.
+
+9-  Obtaining the optimal motor -----> purpose : comparing the initial and optimal motor’s thermal, fluidic, and economic performances.
 
 [1]	J. Pyrhonen, T. Jokinen, and V. Hrabovcova, Design of Rotating Electrical Machines: Wiley, 2009.
